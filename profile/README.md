@@ -1,7 +1,17 @@
 # Hey, this is us 👋
 
-What is Lorem Ipsum?
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+#### Our Vision
 
-## 👓 Appendix
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus risus sem, commodo mattis massa et, posuere sollicitudin felis. Donec vitae bibendum ex. Quisque nulla dui, tincidunt bibendum quam non, semper feugiat neque. Integer eget fermentum lorem, id blandit arcu.
+
+#### Developer Portal
+
+Sed mattis, nisi vel molestie dictum, mauris eros tempus libero, sed gravida nunc ante et elit. Nulla nibh arcu, bibendum eget sapien eget, varius vestibulum erat. Sed ut nunc non lacus placerat feugiat. Nunc vitae leo tempor, volutpat nibh vitae, rhoncus risus. Fusce auctor ante mi, nec gravida dui posuere sed. 
+
+#### Open Source
+
+Integer felis leo, fermentum id sollicitudin in, ornare id purus. Nulla tempus ornare tortor, sit amet dictum est sodales tincidunt. Etiam at turpis pharetra, interdum est at, tincidunt massa. Nunc tristique, ex id suscipit faucibus, ex magna aliquam nunc, a congue mauris elit vitae justo. Quisque vulputate libero eros, sit amet mattis justo euismod vel. 
+
+#### 👓 Appendix
+
 Oh, and by the way, we are always hiring talented, passionate people to join our team 🙌.
