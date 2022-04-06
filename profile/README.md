@@ -1,4 +1,4 @@
-# Hey, this is us 👋
+## Hey, this is us 👋
 
 #### Our Vision
 
