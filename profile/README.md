@@ -4,7 +4,7 @@
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus risus sem, commodo mattis massa et, posuere sollicitudin felis. Donec vitae bibendum ex. Quisque nulla dui, tincidunt bibendum quam non, semper feugiat neque. Integer eget fermentum lorem, id blandit arcu.
 
-#### Developer Portal
+#### Developers
 
 Sed mattis, nisi vel molestie dictum, mauris eros tempus libero, sed gravida nunc ante et elit. Nulla nibh arcu, bibendum eget sapien eget, varius vestibulum erat. Sed ut nunc non lacus placerat feugiat. Nunc vitae leo tempor, volutpat nibh vitae, rhoncus risus. Fusce auctor ante mi, nec gravida dui posuere sed. 
 
