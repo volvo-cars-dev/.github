@@ -2,7 +2,7 @@
 
 #### Our Vision
 
-What is our vision for tech?
+What is our vision for tech/software-driven-company?
 
 #### Developers
 
