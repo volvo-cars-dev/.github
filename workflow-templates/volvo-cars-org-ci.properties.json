@@ -1,7 +1,7 @@
 {
     "name": "Volvo Cars Organization Workflow",
     "description": "Volvo Cars Organization CI starter workflow.",
-    "iconName": "example-icon",
+    "iconName": "python",
     "categories": [
         "Python"
     ],
